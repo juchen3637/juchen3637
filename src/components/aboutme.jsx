@@ -1,0 +1,15 @@
+import React from "react"
+import './aboutme.css'
+import face from "../assets/face.jpg"
+
+export default function AboutMe() {
+    return (
+        <div className="aboutme">
+            <img src={face} className="face"></img>
+            <div className="text">
+                <p className="title">about me</p>
+                <p className="description">my name is justin chen, i'm an aspiring app and front end developer. i'm currently a second year computer engineering major at stevens institude of technology</p>
+            </div>
+        </div>
+    )
+}

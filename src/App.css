@@ -1,0 +1,13 @@
+body {
+  font-family: League Spartan, Inter;
+  background-color: #4682B4B3;
+  margin: 0;
+  padding: 0;
+}
+
+.divider {
+  width: 1300px;
+  align-items: center;
+  margin-top: 204.5px;
+  border: 2px solid #FFFFFF;
+}

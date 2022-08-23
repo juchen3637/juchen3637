@@ -1,0 +1,30 @@
+.face {
+    width: 569px;
+    height: 549px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-top: 681px;
+    margin-left: 148px;
+}
+
+.aboutme {
+    display: flex;
+}
+
+.title {
+    margin-top: 681px;
+    margin-left: 323px;
+    font-size: 64px;
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
+
+.description {
+    font-size: 32px;
+    max-width: 401px;
+    margin-left: 247px;
+    margin-top: 146px;
+    color: #FFFFFF;
+    line-height: 40px;
+}

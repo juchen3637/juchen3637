@@ -1,0 +1,36 @@
+.projectdisplay--image {
+    width: 700px;
+    height: 446px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.projectdisplay--description {
+    font-size: 32px;
+    color: #FFFFFF;
+    max-width: 700px;
+    margin-left: 300px;
+    margin-top: 50px;
+    line-height: 40px;
+}
+
+@keyframes fade-out {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.project--display {
+
+    display: none;
+}
+
+.project--display--active {
+    animation: fade-out 0.25s ease-in alternate;
+    display: block;
+}

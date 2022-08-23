@@ -1,0 +1,58 @@
+.project--title {
+    color: #FFFFFF;
+    font-size: 64px;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    margin-top: 204px;
+    margin-left: 148px;
+}
+
+.project--menu {
+    border-left: solid #FFFFFF 3px;
+    width: 440px;
+    height: 509px;
+    margin-left: 148px;
+    margin-top: 153px;
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+
+.project--menu button {
+    margin-top: 44px;
+    margin-left: 28px;
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-top: 20px;
+    cursor: pointer;
+    display: list-item;
+    padding-bottom: 0.25rem;
+    position: relative;
+    border: none;
+    background-color: transparent;
+    font-family: League Spartan, Inter;
+}
+
+.project--menu button::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #FFFFFF;
+    transition: width 0.25s ease-out;
+}
+
+.project--menu button:hover::before {
+    width: 100%;
+}
+
+.project--filler {
+    display: none;
+    visibility: hidden;
+}
+
+.project--menu--display {
+    display: flex;
+}
