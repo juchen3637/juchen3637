@@ -31,6 +31,6 @@
 }
 
 .project--display--active {
-    animation: fade-out 0.25s ease-in alternate;
+    animation: fade-out 0.5s ease-in alternate;
     display: block;
 }

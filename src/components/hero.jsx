@@ -9,7 +9,7 @@ import './hero.css'
 
 export default function Hero() {
     return (
-        <hero className="hero">
+        <hero className="hero" id="home">
             <p className="welcome">welcome to my portfolio</p>
             <span>
                 <img src={cloud} className="cloud--1"></img>

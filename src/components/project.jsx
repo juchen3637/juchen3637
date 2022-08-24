@@ -13,7 +13,7 @@ export default function Project() {
     };
 
     return (
-        <div className="project">
+        <div className="project" id="project">
             <p className="project--title">projects</p>
             <div className="project--menu--display">
                 <div className="project--menu">

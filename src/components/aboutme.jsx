@@ -4,7 +4,7 @@ import face from "../assets/face.jpg"
 
 export default function AboutMe() {
     return (
-        <div className="aboutme">
+        <div className="aboutme" id="aboutme">
             <img src={face} className="face"></img>
             <div className="text">
                 <p className="title">about me</p>

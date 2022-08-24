@@ -6,3 +6,91 @@
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }
+
+.contactme--container {
+    border: 3px solid #FFFFFF;
+    width: 800px;
+    height: 700px;
+    margin-left: 548.5px;
+    margin-top: 150px;
+}
+
+
+.contactme--name {
+    width: 780px;
+    padding-left: 20px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #FFFFFF;
+    background-color: transparent;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.contactme--email {
+    width: 780px;
+    padding-top: 35px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #FFFFFF;
+    background-color: transparent;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.contactme--message {
+    width: 100%;
+    max-width: 750px;
+    padding-top: 35px;
+    padding-left: 20px;
+    height: 500px;
+    max-height: 450px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 25px;
+    color: #FFFFFF;
+    resize: none;
+}
+
+
+
+::placeholder {
+    color: #FFFFFF;
+}
+
+.contactme--info--email {
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 548.5px;
+}
+
+.contactme--info--number {
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 548.5px;
+}
+
+.contactme--aftermessage {
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+
+
+.contactme--submit {
+    position: absolute;
+    background-color: transparent;
+    border-radius: 25px;
+    border: 2px solid #FFFFFF;
+    padding: 10px 20px; 
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 650px;
+    margin-top: -50px;
+}

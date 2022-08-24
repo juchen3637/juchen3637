@@ -1,10 +1,11 @@
 import React from "react"
 import './App.css'
-import Navbar from "./components/navbar.jsx"
-import Hero from "./components/hero.jsx"
-import AboutMe from "./components/aboutme.jsx"
-import Project from "./components/project.jsx"
-import ContactMe from "./components/contactme.jsx"
+import Navbar from "./components/navbar"
+import Hero from "./components/hero"
+import AboutMe from "./components/aboutme"
+import Project from "./components/project"
+import ContactMe from "./components/contactme"
+import Footer from "./components/footer"
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Project />
       <hr className="divider"></hr>
       <ContactMe />
+      <Footer />
     </div>
   )
 }
