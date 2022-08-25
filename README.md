@@ -1,5 +1,7 @@
 ### Hello!
 
+My name is Justin Chen
+
 <!--
 **juchen3637/juchen3637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
