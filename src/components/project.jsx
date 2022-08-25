@@ -112,6 +112,7 @@ export default function Project() {
                     <div className={toggleState === 7 ? "project--display--active" : "project--display"}>
                         <ProjectDisplay 
                             id = {7}
+                            link = "https://justchenbusycard.web.app/"
                             img = "digitalbusinesscard.png"
                             description = "As the name suggests, it is a digital business card that has my contact information and a little about what I am interested in. My first ever React project that taught me how to create custom components and how to integrate them together."
                         />
@@ -119,6 +120,7 @@ export default function Project() {
                     <div className={toggleState === 8 ? "project--display--active" : "project--display"}>
                         <ProjectDisplay 
                             id = {8}
+                            link = "https://justchenaroundtheworld.web.app/"
                             img = "traveljournal.png"
                             description = "Small React project that taught me how to use properties to make reusuable react components. Disclaimer I do not travel very often and the data used are random and preset, I wish I traveled to these places."
                         />
