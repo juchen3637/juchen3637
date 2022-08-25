@@ -5,6 +5,7 @@ I am an aspiring front end developer and app creator, one day I hope to put one 
 Before then I am just trying my best to learn the skills necessary to achieve my goals while balancing school work and social life.
 
 Here is my web portfolio if you are interested in seeing some of my projects!
+
 https://jjustinchenn.web.app/
 
 <!--
