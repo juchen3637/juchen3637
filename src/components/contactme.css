@@ -94,3 +94,7 @@
     margin-left: 650px;
     margin-top: -50px;
 }
+
+.contactme--submit:hover {
+    cursor: pointer;
+}

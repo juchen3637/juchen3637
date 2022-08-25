@@ -43,9 +43,16 @@
     margin-top: 39px;
 }
 
+.navbar--name:hover {
+    cursor: pointer;
+}
+
 .navbar--menu {
     list-style: none;
     display: flex;
     align-items: center;
     margin-left: 1000px;
+}
+li:hover {
+    cursor: pointer;
 }
