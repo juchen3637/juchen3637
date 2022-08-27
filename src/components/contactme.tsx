@@ -99,7 +99,9 @@ export default function ContactMe() {
                     </button>
                 </form>
             </div>
-            <p className="contactme--info--email">juchen3637@gmail.com</p>
+            <a href="mailto:juchen3637@gmail.com" className="contactme--info--email2">
+                <p className="contactme--info--email">juchen3637@gmail.com</p>
+            </a>
             <p className="contactme--info--number">+1 732-331-8174</p>
         </div>
     )
