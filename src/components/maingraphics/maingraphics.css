@@ -1,0 +1,75 @@
+.cloud {
+    width: 240px;
+    height: 240px;
+}
+
+.bird--1 {
+    width: 64px;
+    height: 64px;
+    margin-left: 70%;
+}
+
+.bird--2 {
+    width: 64px;
+    height: 64px;
+    transform: scaleX(-1);
+    margin-left: 450%;
+}
+
+.htmllogo {
+    width: 90px;
+    height: 90px;
+
+}
+
+.csslogo {
+    width: 90px;
+    height: 90px;
+
+}
+
+.reactlogo {
+    width: 90px;
+    height: 90px;
+}
+
+.javascriptlogo {
+    width: 85px;
+    height: 85px;
+}
+
+.graphic--row1 {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+.graphic--row2 {
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+}
+
+.graphic--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.graphic--birdrow {
+    position: absolute;
+    margin-top: -25px;
+    
+}
+
+.graphic--logorow1 {
+    position: absolute;
+    margin-top: 80px;
+
+}
+
+.graphic--logorow2 {
+    position: absolute;
+    margin-top: 80px;
+}
