@@ -1,8 +1,8 @@
 import React from "react"
 import './footer.css'
-import githubLogo from "../assets/github.png"
-import linkedinLogo from "../assets/linkedin.png"
-import resumeIcon from "../assets/resume.png"
+import githubLogo from "../../assets/github.png"
+import linkedinLogo from "../../assets/linkedin.png"
+import resumeIcon from "../../assets/resume.png"
 
 export default function Footer() {
     return (

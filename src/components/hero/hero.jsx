@@ -1,10 +1,10 @@
 import React from "react"
-import cloud from "../assets/cloud.png"
-import bird from "../assets/bird.png"
-import htmlLogo from "../assets/html.png"
-import cssLogo from "../assets/css.png"
-import javascriptLogo from "../assets/javascript.png"
-import reactLogo from "../assets/react.png"
+import cloud from "../../assets/cloud.png"
+import bird from "../../assets/bird.png"
+import htmlLogo from "../../assets/html.png"
+import cssLogo from "../../assets/css.png"
+import javascriptLogo from "../../assets/javascript.png"
+import reactLogo from "../../assets/react.png"
 import './hero.css'
 
 export default function Hero() {

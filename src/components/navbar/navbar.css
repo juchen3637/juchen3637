@@ -1,21 +1,27 @@
 .navbar {
     width: 100%;
-    height: 100%;
     background-color: #F0FFFF66;
-    height: 122px;
-    display: flex;
+    height: 12%;
     position: fixed;
     top: 0;
+}
+
+.navbar--flex {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1%;
 }
 
 .navbar--item a {
     text-decoration: none;
     color: #FFFFFF;
     font-size: 32px;
-    margin-right: 65px;
     display: inline-block;
     padding-bottom: 0.25rem;
     position: relative;
+    margin-right: 65px;
 }
 
 .navbar--item a::before {
@@ -39,8 +45,7 @@
     color: #FFFFFF;
     font-size: 48px;
     align-items: center;
-    margin-left: 100px;
-    margin-top: 39px;
+    margin-left: 5%;
 }
 
 .navbar--name:hover {
@@ -50,8 +55,6 @@
 .navbar--menu {
     list-style: none;
     display: flex;
-    align-items: center;
-    margin-left: 1000px;
 }
 li:hover {
     cursor: pointer;

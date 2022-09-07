@@ -2,7 +2,6 @@ import React from "react"
 import {useState} from "react"
 import ProjectDisplay from "./projectdisplay.jsx"
 import './project.css'
-import data from "../data.js"
 
 export default function Project() {
 
