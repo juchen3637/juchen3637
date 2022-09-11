@@ -1,7 +1,7 @@
 .contactme--title {
     color: #FFFFFF;
-    margin-top: 204.61px;
-    margin-left: 1300px;
+    margin-top: 13%;
+    margin-left: 73.5%;
     font-size: 64px;
     text-decoration: underline;
     text-decoration-thickness: 3px;
@@ -11,8 +11,9 @@
     border: 3px solid #FFFFFF;
     width: 800px;
     height: 700px;
-    margin-left: 548.5px;
-    margin-top: 150px;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 
@@ -66,7 +67,7 @@
 .contactme--info--email {
     color: #FFFFFF;
     font-size: 25px;
-    margin-left: 548.5px;
+    margin-top: 10%;
 }
 .contactme--info--email2 {
     text-decoration-color: #FFFFFF;
@@ -75,7 +76,6 @@
 .contactme--info--number {
     color: #FFFFFF;
     font-size: 25px;
-    margin-left: 548.5px;
 }
 
 .contactme--aftermessage {
