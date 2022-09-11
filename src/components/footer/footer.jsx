@@ -14,7 +14,7 @@ export default function Footer() {
                 <a href="https://www.linkedin.com/in/justin-chen-30b231227/" target="_blank">
                     <img src={linkedinLogo} className="footer--icons"/>
                 </a>
-                <a href="https://drive.google.com/file/d/1rl6HnmTIqB72B29wJujnfHv0efSGRPXH/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1jp0Dd2QO6j7EI8EbTDgjC6NTTTxUJBu_/view?usp=sharing" target="_blank">
                     <img src={resumeIcon} className="footer--icons"/>
                 </a>
             </div>
