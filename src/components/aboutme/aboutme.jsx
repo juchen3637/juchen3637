@@ -8,7 +8,7 @@ export default function AboutMe() {
             <img src={face} className="face"></img>
             <div className="text">
                 <p className="title">about me</p>
-                <p className="description">my name is justin chen, i'm an aspiring app and front end developer. i'm currently a second year computer engineering major at stevens institude of technology</p>
+                <p className="description">my name is justin chen, i'm an aspiring app and front end developer. i'm currently a second year computer engineering major at stevens institute of technology</p>
             </div>
         </div>
     )
