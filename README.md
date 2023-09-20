@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Justin Chen, I am currently studying Computer Engineering at Stevens Institute of Technology.
+My name is Justin Chen, I am currently pursing a Master's of Engineering in Computer Engineering at Stevens Institute of Technology.
 I am an aspiring front end developer and app creator, one day I hope to put one of my apps on the front page of the app store!
 Before then I am just trying my best to learn the skills necessary to achieve my goals while balancing school work and social life.
 
